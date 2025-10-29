@@ -1,4 +1,4 @@
-<img alt="something is hidden" src="GithubBanner.png">
+<img alt="something is hidden" src="banner2.jpg">
 <h1 align="center">Hi 👋, I'm Prallav Aggarwal</h1>
 <h3 align="center">An engineering grad from India.</h3>
 
