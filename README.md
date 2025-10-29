@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Prallav Aggarwal</h1>
 <h3 align="center">An engineering grad from India.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm in C++ & Web Technology**
+- 🌱 Now I'm a **Full-Stack Developer** and good in **Data Structures and Algorithm in C++**
 
-- 📫 How to reach me **prallavagg002@gmail.com**
+- 📫 Philosophy I'm trying to follow while building solutions **First make it available then make it simple then make it best**
 
-- ⚡ Fun fact **I think I am Consistent in being Inconsistent😁.**
+- ⚡ I am still improving but Now Its fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
